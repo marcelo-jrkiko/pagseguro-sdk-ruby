@@ -2,4 +2,4 @@ script:
   build: .
   volumes:
     - .:/app
-    - /usr/share/zoneinfo/America/Fortaleza:/etc/localtime:ro
+#    - /usr/share/zoneinfo/America/Sao_Paulo:/etc/localtime:ro

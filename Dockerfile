@@ -1,4 +1,4 @@
-from ruby:2.2.2
+from ruby:3.2.2
 
 env DEBIAN_FRONTEND noninteractive
 
